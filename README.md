@@ -1,4 +1,4 @@
-**Revenue Pie Chart**
+<h1>Revenue Pie Chart</h1>
 This JavaScript code generates a pie chart using the Chart.js library to visualize revenue data for each month. The pie chart represents revenue data in Kenya Shillings (KES).
 
 **Getting Started**
