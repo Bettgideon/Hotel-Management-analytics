@@ -28,5 +28,5 @@ You can customize the appearance of the pie chart by adjusting colors, threshold
 <h5>Dependencies</h5>
 This code relies on the Chart.js library for generating the pie chart. Ensure you have included Chart.js in your project.
 
-**Author**
+<h6>Author</h6>
 Gideon Bett, Gidcom Techs
