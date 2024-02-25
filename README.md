@@ -19,13 +19,13 @@ html
 <script src="path/to/your/script.js"></script>
 
 Customize the code further if needed.
-**Revenue Data**
+<h3>Revenue Data</h3>
 Revenue data is provided as an array (revenueData) containing revenue values for each month. Modify this array to reflect your own revenue data.
 
-**Customization**
+<h4>Customization</h4>
 You can customize the appearance of the pie chart by adjusting colors, thresholds, and labels within the JavaScript code. Refer to the comments in the code for guidance.
 
-**Dependencies**
+<h5>Dependencies</h5>
 This code relies on the Chart.js library for generating the pie chart. Ensure you have included Chart.js in your project.
 
 **Author**
