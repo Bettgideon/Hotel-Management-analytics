@@ -4,6 +4,7 @@ This JavaScript code generates a pie chart using the Chart.js library to visuali
 <h2>Getting Started</h2>
 *To use this code, follow these steps:*
 
+
 Ensure you have included the Chart.js library in your project.
 Copy the provided JavaScript code into your project.
 Update the revenue data (revenueData) and labels (revenueLabels) according to your data.
